@@ -1,0 +1,6 @@
+# notatki wewnętrzne / śmieci systemowe
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+dev-docs/
